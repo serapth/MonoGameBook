@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Mike/Dropbox/Projects/MonoGame/Code/MonoGameCodeSamples/Chapter7/Example3/Content/circus.wav</SourceFile>
+  <SourceTime>2015-07-23T14:32:44.2936872-04:00</SourceTime>
+  <DestFile>C:/Users/Mike/Dropbox/Projects/MonoGame/Code/MonoGameCodeSamples/Chapter7/Example3/Content/bin/Windows/circus.xnb</DestFile>
+  <DestTime>2015-07-23T14:33:39.588786-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-29T13:14:44-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T13:14:44-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

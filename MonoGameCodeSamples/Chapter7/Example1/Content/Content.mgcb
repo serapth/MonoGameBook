@@ -1,0 +1,21 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/Windows
+/intermediateDir:obj/Windows
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin prepare.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:prepare.mp3
+

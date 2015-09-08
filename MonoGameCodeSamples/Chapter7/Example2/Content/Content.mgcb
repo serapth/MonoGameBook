@@ -1,0 +1,39 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/Windows
+/intermediateDir:obj/Windows
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin airlockclose.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:airlockclose.wav
+
+#begin ak47.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:ak47.wav
+
+#begin icecream.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:icecream.wav
+
+#begin sneeze.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sneeze.wav
+

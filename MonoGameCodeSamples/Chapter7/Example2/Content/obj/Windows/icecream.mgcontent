@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/serap/Dropbox/Projects/MonoGame/Code/MonoGameCodeSamples/Chapter7/Example2/Content/icecream.wav</SourceFile>
+  <SourceTime>2015-07-23T14:06:46-04:00</SourceTime>
+  <DestFile>C:/Users/serap/Dropbox/Projects/MonoGame/Code/MonoGameCodeSamples/Chapter7/Example2/Content/bin/Windows/icecream.xnb</DestFile>
+  <DestTime>2015-08-21T13:31:57.5889744-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-08-15T13:02:46-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-08-15T13:02:46-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
